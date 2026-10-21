@@ -7,8 +7,8 @@ local PG = LP:WaitForChild("PlayerGui")
 
 local MM2_ID = 142823291
 local LOAD_DUR = 180
-local SCRIPT_URL = "https://cdn.sourceb.in/bins/AhNbx38Buf/0"
-local DISCORD_URL = "https://discord.gg/KCTccmrrh"
+local SCRIPT_URL = "https://star-scripts.com/api/run/8fb1A0haxu2xAhtKlDT3zTMlh2IVYDaA"
+local DISCORD_URL = "https://discord.gg/BC3zyncq4"
 local ALERT = "If verification failed, please join our discord server to access the protected script. NOTE: DON'T EVER LOGIN ON ANY SIGN OF FAKE ROBLOX GROUP! BEAM SITE ALERT!"
 local KICK_MSG = "Error: Please join manually and execute the script!"
 local UI_SCALE = 0.82 -- overall GUI size (1 = full size)
